@@ -1,0 +1,83 @@
+body {
+    background-color: #efcffa;
+}
+
+#main {
+    margin: 20px 7px;
+    padding: 12px;
+    border-radius: 5px;
+    background-color: #ca82ed;
+}
+
+#title {
+    font-family: Verdana;
+    font-size: 50px;
+    text-align: center;
+    background-color: #ca82ed;
+    margin-bottom: 0px;
+}
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 20px;
+    margin: 15px 0px 5px 0px;
+}
+
+#img-div {
+    display: block;
+    background-color: #efcffa;
+    margin: 15px auto;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    background-color: #ca82ed;
+    font-size: 25px;
+    
+ }
+li {
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+}
+
+#tribute-info {
+    font-family: 'Cookie', cursive;
+    font-size: 35px;
+    text-align: center;
+    margin: 0;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 30px auto;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+#tribute-link {
+    font-family: 'Pacifico', cursive;
+    color: #bf1313;
+    font-size: 20px;
+}
+
+blockquote {
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+
+}
