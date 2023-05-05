@@ -1,15 +1,13 @@
 body {
-    background-color: #efcffa;
+    margin: 0;
 }
 
-#main {
-    margin: 20px 7px;
+main {
     padding: 12px;
-    border-radius: 5px;
     background-color: #ca82ed;
 }
 
-#title {
+h1 {
     font-family: Verdana;
     font-size: 50px;
     text-align: center;
@@ -18,21 +16,20 @@ body {
 }
 
 
-#image {
+img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
-#img-caption {
+figcaption {
     text-align: center;
     font-size: 20px;
     margin: 15px 0px 5px 0px;
 }
 
-#img-div {
-    display: block;
+.container-img {
     background-color: #efcffa;
     margin: 15px auto;
     padding: 10px;
@@ -44,17 +41,18 @@ p {
     background-color: #ca82ed;
     font-size: 25px;
     
- }
+}
+
 li {
     font-family: 'Cookie', cursive;
     font-size: 30px;
 }
 
-#tribute-info {
+h2 {
     font-family: 'Cookie', cursive;
     font-size: 35px;
     text-align: center;
-    margin: 0;
+    margin: 10px;
 }
 
 ul {
@@ -63,13 +61,13 @@ ul {
     text-align: left;
 }
 
-h3 {
+h4 {
     font-family: 'Varela Round', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
 }
 
-#tribute-link {
+.link {
     font-family: 'Pacifico', cursive;
     color: #bf1313;
     font-size: 20px;
@@ -79,5 +77,4 @@ blockquote {
     font-size: 30px;
     font-family: 'Great Vibes', cursive;
     text-align: center;
-
 }
